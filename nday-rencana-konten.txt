@@ -3,9 +3,11 @@ RENCANA KONTEN NDAY
 - Java Script
   * ES6
   * Framworks Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur Data Dasar
 - PHP Framwork
-  * Laravel
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
