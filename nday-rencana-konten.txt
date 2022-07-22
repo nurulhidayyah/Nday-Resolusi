@@ -1,0 +1,8 @@
+RENCANA KONTEN NDAY
+
+- Java Script
+  * ES6
+  * Framworks Javascript
+- PHP Framwork
+- Interview
+- Vlogs
