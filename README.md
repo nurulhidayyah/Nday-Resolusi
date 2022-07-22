@@ -1,2 +1,2 @@
 # Nday-Resolusi
-Repositori untuk menyimpak rencana kedepan
+Repositori untuk menyimpan rencana kedepan
